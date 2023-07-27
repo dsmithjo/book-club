@@ -25,11 +25,11 @@
 <br>
 <br>  
 
-**The Seven Moons of Maali Almeida** by Shehan Karunatilaka &nbsp; (*novel*)  // CHANGE
+**Dust Child** by Nguyễn Phan Quế Mai &nbsp; (*novel*)
 
-<img src="./images/seven-moons.jpeg" alt="seven moons of maali almeida" width="100" height="140">  
+<img src="./images/dust-child.jpeg" alt="dust child" width="100" height="140">  
 
-&#8594; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)  
+&#8594; [goodreads link](https://www.goodreads.com/book/show/60831918-dust-child?from_search=true&from_srp=true&qid=E8IXl0zd3x&rank=1)  
 
 <br>
 <br>  
@@ -58,19 +58,8 @@
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)  
 
-
-
 <br>
 <br>
-
-<details>
-<summary><i>info</i></summary>
-
-* Vegetables
-* Fruits
-* Fish
-
-</details>  
  
 ---
 
