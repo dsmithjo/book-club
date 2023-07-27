@@ -4,8 +4,7 @@
 
 ## Reading options
 
-<br>
-<br>
+<br>  
 
 **Banyan Moon** by Thao Thai &nbsp; (*novel*)  
 
