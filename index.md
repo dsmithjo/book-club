@@ -1,8 +1,9 @@
-# Book Club planning
+# BOOK CLUB!
 
 <br />
 
 ## Reading options
+> A list of 6 novels and short story collections
 
 <br>  
 
@@ -57,18 +58,22 @@
 
 &#8594; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)  
 
+<br>  
+
+---
+
 <br>
+
+## Surveys
+> via Google Forms
+
 <br>
- 
----
 
-#### [Survey: Which book should we read?](./publications "Link to survey")
-    
----
+### &#10148; [Which book should we read?](./publications "Link to survey")
 
-#### [Survey: When should we meet?](./presentations "Link to survey")
+<br>
 
----
+### &#10148; [When should we meet?](./presentations "Link to survey")  
 
 <br />  
   
