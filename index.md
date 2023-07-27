@@ -23,7 +23,16 @@
 &#8594; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)  
 
 <br>
+<br>  
+
+**The Seven Moons of Maali Almeida** by Shehan Karunatilaka &nbsp; (*novel*)  // CHANGE
+
+<img src="./images/seven-moons.jpeg" alt="seven moons of maali almeida" width="100" height="140">  
+
+&#8594; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)  
+
 <br>
+<br>  
 
 **Beasts of a Little Land** by Juhea Kim &nbsp; (*short story collection*)  
 
