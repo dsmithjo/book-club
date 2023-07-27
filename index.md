@@ -6,7 +6,7 @@
 
 <br>
 
-**Beasts of a Little Land** (*short story collection*)
+**Beasts of a Little Land** &nbsp; (*short story collection*)
 
 * [goodreads link](https://www.goodreads.com/en/book/show/57151981)
 
@@ -23,12 +23,14 @@
 
 <br>
 
-**Beasts of a Little Land**
+**The Seven Moons of Maali Almeida** &nbsp; (*novel*)
 
-* [goodreads link](https://www.goodreads.com/en/book/show/57151981)
+* [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)
 
 
-**Beasts of a Little Land**
+**Banyan Moon**
+
+* [goodreads link](https://www.goodreads.com/book/show/62800971-banyan-moon?ref=nav_sb_ss_1_10)
 
 <br>
 
