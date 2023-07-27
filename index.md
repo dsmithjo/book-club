@@ -1,4 +1,4 @@
-# BOOK CLUB!
+# BOOK CLUB! (October 2023)
 
 <br />
 
