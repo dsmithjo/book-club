@@ -11,7 +11,7 @@
 
 <img src="./images/banyan-moon.jpeg" alt="banyan moon" width="100" height="140">  
 
-&rightarrow; [goodreads link](https://www.goodreads.com/book/show/62800971-banyan-moon?ref=nav_sb_ss_1_10)
+&rightarrow; [goodreads link](https://www.goodreads.com/book/show/62800971-banyan-moon?ref=nav_sb_ss_1_10)  
 
 <br>
 <br>
@@ -20,7 +20,7 @@
 
 <img src="./images/seven-moons.jpeg" alt="seven moons of maali almeida" width="100" height="140">  
 
-&rightarrow; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)
+&rightarrow; [goodreads link](https://www.goodreads.com/book/show/57224204-the-seven-moons-of-maali-almeida?ref=nav_sb_ss_1_11)  
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 
 <img src="./images/beasts-little-land.jpeg" alt="beasts of a little land" width="100" height="140">  
 
-&rightarrow; [goodreads link](https://www.goodreads.com/en/book/show/57151981)
+&rightarrow; [goodreads link](https://www.goodreads.com/en/book/show/57151981)  
 
 <br>
 <br>
@@ -38,7 +38,7 @@
 
 <img src="./images/bliss-montage.jpeg" alt="bliss montage" width="100" height="140">  
 
-&rightarrow; [goodreads link](https://www.goodreads.com/book/show/60243188-bliss-montage?ref=nav_sb_ss_5_5)
+&rightarrow; [goodreads link](https://www.goodreads.com/book/show/60243188-bliss-montage?ref=nav_sb_ss_5_5)  
 
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 <img src="./images/tomorrow-shanghai.jpeg" alt="tomorrow in shanghai" width="100" height="140">  
 
-&rightarrow; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)
+&rightarrow; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)  
 
 
 
