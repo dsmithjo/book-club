@@ -40,8 +40,19 @@
 
 &rightarrow; [goodreads link](https://www.goodreads.com/book/show/60243188-bliss-montage?ref=nav_sb_ss_5_5)
 
+<br>
+<br>
+
+**Tomorrow in Shanghai** by May-lee Chai &nbsp; | &nbsp; *short story collection*  
+
+<img src="/images/tomorrow-shanghai.jpeg" alt="tomorrow in shanghai" width="100" height="140">  
+
+&rightarrow; [goodreads link](https://www.goodreads.com/book/show/58722207-tomorrow-in-shanghai)
 
 
+
+<br>
+<br>
 
 <details>
 <summary><i>info</i></summary>
@@ -50,15 +61,7 @@
 * Fruits
 * Fish
 
-</details>
-
-
-
-<br>
-
-****
-  * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
-  * [ResearchGate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
+</details>  
  
 ---
 
