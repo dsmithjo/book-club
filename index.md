@@ -34,7 +34,7 @@
 <br>
 <br>  
 
-**Beasts of a Little Land** by Juhea Kim  &nbsp; \| &nbsp; *short story collection*  
+**Beasts of a Little Land** by Juhea Kim  &nbsp; \| &nbsp; *novel*   
 
 <img src="./images/beasts-little-land.jpeg" alt="beasts of a little land" width="100" height="140">  
 
@@ -65,11 +65,11 @@
 <br>
 
 ## Survey
-> via Google Forms
-
-<br>
+> via Google Forms    
 
 ### &#10148; [Which book should we read? When should we meet?](https://forms.gle/8FRJ7co2KtsV9sX68)
+
+Trying something a bit different here: Rank your top-3 titles, and I'll [score the results](https://www.si.com/fannation/nba/fastbreak/news/2022-23-nba-awards-media-poll-results-nba-most-valuable-player); the title with the most points is our book for October!
 
 <br />  
   
