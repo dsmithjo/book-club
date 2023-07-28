@@ -7,7 +7,7 @@
 
 <br>  
 
-**Banyan Moon** by Thao Thai &nbsp; (*novel*)  
+**Banyan Moon** by Thao Thai &nbsp; \| &nbsp; *novel*  
 
 <img src="./images/banyan-moon.jpeg" alt="banyan moon" width="100" height="140">  
 
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-**The Seven Moons of Maali Almeida** by Shehan Karunatilaka &nbsp; (*novel*)  
+**The Seven Moons of Maali Almeida** by Shehan Karunatilaka &nbsp; \| &nbsp; *novel*    
 
 <img src="./images/seven-moons.jpeg" alt="seven moons of maali almeida" width="100" height="140">  
 
