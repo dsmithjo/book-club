@@ -69,7 +69,7 @@
 
 ### &#10148; [Which book should we read? When should we meet?](https://forms.gle/8FRJ7co2KtsV9sX68)    
 
-Trying something a bit different here: Rank your top 3 titles, and I'll [score the results](https://www.si.com/fannation/nba/fastbreak/news/2022-23-nba-awards-media-poll-results-nba-most-valuable-player); the title with the most points is our book for October!    
+Trying something a bit different here: Rank your top 3 titles, and I'll [score the results](https://www.si.com/fannation/nba/fastbreak/news/2022-23-nba-awards-media-poll-results-nba-most-valuable-player); the title with the most points is our next book!    
 
 <br />  
   
