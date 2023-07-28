@@ -2,7 +2,7 @@
 
 <br />
 
-## Reading options
+## The titles
 > A list of 6 novels and short story collections
 
 <br>  
@@ -25,7 +25,7 @@
 <br>
 <br>  
 
-**Dust Child** by Nguyễn Phan Quế Mai &nbsp; (*novel*)
+**Dust Child** by Nguyễn Phan Quế Mai  &nbsp; \| &nbsp; *novel*  
 
 <img src="./images/dust-child.jpeg" alt="dust child" width="100" height="140">  
 
@@ -34,7 +34,7 @@
 <br>
 <br>  
 
-**Beasts of a Little Land** by Juhea Kim &nbsp; (*short story collection*)  
+**Beasts of a Little Land** by Juhea Kim  &nbsp; \| &nbsp; *short story collection*  
 
 <img src="./images/beasts-little-land.jpeg" alt="beasts of a little land" width="100" height="140">  
 
@@ -43,7 +43,7 @@
 <br>
 <br>
 
-**Bliss Montage** by Ling Ma &nbsp; (*short story collection*)  
+**Bliss Montage** by Ling Ma &nbsp; \| &nbsp; *short story collection*      
 
 <img src="./images/bliss-montage.jpeg" alt="bliss montage" width="100" height="140">  
 
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-**Tomorrow in Shanghai** by May-lee Chai &nbsp; (*short story collection*)   
+**Tomorrow in Shanghai** by May-lee Chai &nbsp; \| &nbsp; *short story collection*     
 
 <img src="./images/tomorrow-shanghai.jpeg" alt="tomorrow in shanghai" width="100" height="140">  
 
@@ -64,16 +64,12 @@
 
 <br>
 
-## Surveys
+## Survey
 > via Google Forms
 
 <br>
 
-### &#10148; [Which book should we read?](./publications "Link to survey")
-
-<br>
-
-### &#10148; [When should we meet?](./presentations "Link to survey")  
+### &#10148; [Which book should we read? When should we meet?](https://forms.gle/8FRJ7co2KtsV9sX68)
 
 <br />  
   
