@@ -1,4 +1,4 @@
-# 📚 &nbsp; BOOK CLUB! (October 2023)
+# 📚 &nbsp; October 2023
 
 <br />
 
